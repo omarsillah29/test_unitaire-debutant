@@ -1,0 +1,17 @@
+{
+    "name": "omarsillah/jour03",
+    "autoload": {
+        "psr-4": {
+            "Omarsillah\\Jour03\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omarsillah29",
+            "email": "omar.sillah@laplateforme.io"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^13.2"
+    }
+}
